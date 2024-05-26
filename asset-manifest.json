@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/track-expenses-wapp-build/static/css/main.2431a24a.css",
+    "main.js": "/track-expenses-wapp-build/static/js/main.8dd3a503.js",
+    "index.html": "/track-expenses-wapp-build/index.html",
+    "main.2431a24a.css.map": "/track-expenses-wapp-build/static/css/main.2431a24a.css.map",
+    "main.8dd3a503.js.map": "/track-expenses-wapp-build/static/js/main.8dd3a503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2431a24a.css",
+    "static/js/main.8dd3a503.js"
+  ]
+}
